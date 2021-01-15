@@ -1,4 +1,4 @@
-# Static-shop-served-via-nodeJS
+# Static-online-shop-served-via-nodeJS
 
 ## This is static web site served via nodeJS
 'ejs' is used in this project as Template engine
